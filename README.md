@@ -1,3 +1,7 @@
+
+
+Uploading Screen Recording 2026-06-06 222919.mp4…
+
 # FTG (Fun To Grow) - Landing Page Challenge
 
 This repository contains the premium, gamified landing page developed for the **FTG Internship Assessment** by RCUBE TECHHUB PRIVATE LIMITED.
